@@ -38,4 +38,4 @@
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Badges provided by: [](https://github.com/Ileriayo/markdown-badges))
+Badges provided by: [https://github.com/Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
