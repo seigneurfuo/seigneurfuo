@@ -1,3 +1,4 @@
+#### OS I use:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -17,7 +18,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-#### Frameworks / toolkits I use:
+#### Frameworks & toolkits I use:
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -39,3 +40,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 Badges provided by: [https://github.com/Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+
+-----
+
+#### Main projets / Projets principaux
+- [MyAnimeManager3](https://github.com/seigneurfuo/MyAnimeManager3)
+- [Easydot](https://github.com/seigneurfuo/easydot)
+- [EasyMenu](https://github.com/seigneurfuo/easy-menu)
+- [Home Assistant Desktop Applet](https://github.com/seigneurfuo/home-assistant-desktop-applet)
+- [RunQtCat](https://github.com/seigneurfuo/runqtcat)
+
+
