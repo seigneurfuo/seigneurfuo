@@ -43,7 +43,7 @@ Badges provided by: [https://github.com/Ileriayo/markdown-badges](https://github
 
 -----
 
-#### Main projets / Projets principaux
+#### Main projects / Projets principaux
 - [MyAnimeManager3](https://github.com/seigneurfuo/MyAnimeManager3)
 - [Easydot](https://github.com/seigneurfuo/easydot)
 - [EasyMenu](https://github.com/seigneurfuo/easy-menu)
